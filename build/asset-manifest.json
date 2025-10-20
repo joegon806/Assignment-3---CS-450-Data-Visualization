@@ -1,16 +1,13 @@
 {
   "files": {
-    "main.css": "/Assignment-3---CS-450/static/css/main.e6b8acc0.css",
-    "main.js": "/Assignment-3---CS-450/static/js/main.08f26e0b.js",
-    "static/media/Infinite Bounce.png": "/Assignment-3---CS-450/static/media/Infinite Bounce.f4cde55251bc3c272319.png",
-    "static/media/Profile Pic.jpg": "/Assignment-3---CS-450/static/media/Profile Pic.e11cbef15021ee9f1145.jpg",
-    "static/media/Visual Scripting.jpg": "/Assignment-3---CS-450/static/media/Visual Scripting.0a7a5363ab839adff79b.jpg",
+    "main.css": "/Assignment-3---CS-450/static/css/main.56a6a87c.css",
+    "main.js": "/Assignment-3---CS-450/static/js/main.73c4828a.js",
     "index.html": "/Assignment-3---CS-450/index.html",
-    "main.e6b8acc0.css.map": "/Assignment-3---CS-450/static/css/main.e6b8acc0.css.map",
-    "main.08f26e0b.js.map": "/Assignment-3---CS-450/static/js/main.08f26e0b.js.map"
+    "main.56a6a87c.css.map": "/Assignment-3---CS-450/static/css/main.56a6a87c.css.map",
+    "main.73c4828a.js.map": "/Assignment-3---CS-450/static/js/main.73c4828a.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6b8acc0.css",
-    "static/js/main.08f26e0b.js"
+    "static/css/main.56a6a87c.css",
+    "static/js/main.73c4828a.js"
   ]
 }
