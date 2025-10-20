@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Assignment-3---CS-450/static/css/main.56a6a87c.css",
-    "main.js": "/Assignment-3---CS-450/static/js/main.73c4828a.js",
-    "index.html": "/Assignment-3---CS-450/index.html",
-    "main.56a6a87c.css.map": "/Assignment-3---CS-450/static/css/main.56a6a87c.css.map",
-    "main.73c4828a.js.map": "/Assignment-3---CS-450/static/js/main.73c4828a.js.map"
+    "main.css": "/joegon806/Assignment-3---CS-450-Data-Visualization/static/css/main.56a6a87c.css",
+    "main.js": "/joegon806/Assignment-3---CS-450-Data-Visualization/static/js/main.73c4828a.js",
+    "index.html": "/joegon806/Assignment-3---CS-450-Data-Visualization/index.html",
+    "main.56a6a87c.css.map": "/joegon806/Assignment-3---CS-450-Data-Visualization/static/css/main.56a6a87c.css.map",
+    "main.73c4828a.js.map": "/joegon806/Assignment-3---CS-450-Data-Visualization/static/js/main.73c4828a.js.map"
   },
   "entrypoints": [
     "static/css/main.56a6a87c.css",
