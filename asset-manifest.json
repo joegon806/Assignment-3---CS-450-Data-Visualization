@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Assignment-3---CS-450-Data-Visualization/static/css/main.56a6a87c.css",
+    "main.js": "/Assignment-3---CS-450-Data-Visualization/static/js/main.73c4828a.js",
+    "index.html": "/Assignment-3---CS-450-Data-Visualization/index.html",
+    "main.56a6a87c.css.map": "/Assignment-3---CS-450-Data-Visualization/static/css/main.56a6a87c.css.map",
+    "main.73c4828a.js.map": "/Assignment-3---CS-450-Data-Visualization/static/js/main.73c4828a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56a6a87c.css",
+    "static/js/main.73c4828a.js"
+  ]
+}
